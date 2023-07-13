@@ -206,5 +206,38 @@ justify-content: space-between;
 text-align: center;
 font-size: 40px;
 font-weight: 800;
+margin-top: 40px;
 }
-.soke-thako
+.soke-thako{
+    display: flex;
+width: 500px;
+flex-direction: column;
+color: #27272799;
+text-align: center;
+font-size: 20px;
+font-weight: 400;
+margin-left: 400px;
+
+}
+.abbu{
+    display: flex;
+    margin-left: 1050px;
+    text-align: center;
+    justify-content: space-between;
+    flex-direction: column;
+    position: relative;
+    bottom: 400px;
+    padding-left: 40px;
+}
+.margin-right{
+    margin-right: 20px;
+    
+    
+}
+.sister{
+    padding-left: 20px;
+    
+}
+.all-about{
+    margin-right: 200px;
+}
