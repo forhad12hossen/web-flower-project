@@ -78,3 +78,26 @@ margin-left: 20px;
 .image-section{
     padding-left: 380px;
 }
+.text-styles{
+    text-decoration: underline;
+    display: flex;
+    color: #272727;
+    font-size: 20px;
+justify-content: space-between;
+align-items: center;
+}
+.hello-world{
+    display: flex;
+    padding-left: 100px;
+}
+.hello{
+    display: flex;
+    padding-left: 40px;
+}
+.margin-style{
+    display: flex;
+    padding-right: 150px;
+    width: 320px;
+    height: 40px;
+}
+
