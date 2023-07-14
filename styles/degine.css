@@ -285,3 +285,38 @@ border-radius: 10px;
 color: #FFFFFF;
 font-size: 20px;
 }
+.align{
+    text-align: center;
+}
+.span{
+    color: #E55473;
+font-size: 30px;
+font-weight: 800;
+}
+.shop{
+    color: #FFFFFF;
+    font-family: Lato;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.footer{
+    background: #111010;
+    width: 1900px;
+height: 300px;
+flex-shrink: 0;
+padding-top: 150px;
+}
+.brother{
+    color: #FFFFFFE5;
+text-align: center;
+font-size: 18px
+font-weight: 400;
+}
+.pasport{
+    color: #FFFFFF66;
+text-align: cente
+font-size: 16px;
+font-weight: 400;
+}
