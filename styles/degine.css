@@ -29,6 +29,7 @@ font-weight: 800;
 height: 700px;
 display: flex;
 padding-left: 220px;
+background-size: cover;
 }
 .image-title{
     width: 635px;
@@ -240,4 +241,47 @@ margin-left: 400px;
 }
 .all-about{
     margin-right: 200px;
+}
+.life-is-not-easy{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight:700;
+    margin-left: 500px;
+    padding-top: 200px;
+}
+.valo-ase{
+    color: #27272799;
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.all-one{
+    position:relative;
+    bottom: 150px;
+    font-size: 20px;
+    border-radius: 8px;
+    background-image: url(../images/image/Rectangle\ 9.png);
+    width: 1400px;
+height: 400px;
+text-align: left;
+}
+.input-valo{
+    background: #FFFFFF;
+    width: 600px;
+height: 50px;
+border-radius: 10px;
+color: #27272799;
+font-size: 16px;
+font-weight: 400;
+margin-left: 300px;
+}
+.all-best{
+    background: #E55473;
+    width: 100px;
+height: 40px;
+border-radius: 10px;
+color: #FFFFFF;
+font-size: 20px;
 }
